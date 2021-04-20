@@ -1,0 +1,17 @@
+C:\Users\LapStore\source\repos\OOPlab5.1\OOPlab5_1Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\LapStore\source\repos\OOPlab5.1\OOPlab5_1Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\LapStore\source\repos\OOPlab5.1\OOPlab5_1Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\LapStore\source\repos\OOPlab5.1\OOPlab5_1Test\bin\Debug\OOPlab5_1Test.dll
+C:\Users\LapStore\source\repos\OOPlab5.1\OOPlab5_1Test\bin\Debug\OOPlab5_1Test.pdb
+C:\Users\LapStore\source\repos\OOPlab5.1\OOPlab5_1Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\LapStore\source\repos\OOPlab5.1\OOPlab5_1Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\LapStore\source\repos\OOPlab5.1\OOPlab5_1Test\bin\Debug\OOPlab5.1.exe
+C:\Users\LapStore\source\repos\OOPlab5.1\OOPlab5_1Test\bin\Debug\OOPlab5.1.pdb
+C:\Users\LapStore\source\repos\OOPlab5.1\OOPlab5_1Test\bin\Debug\OOPlab5.1.exe.config
+C:\Users\LapStore\source\repos\OOPlab5.1\OOPlab5_1Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\LapStore\source\repos\OOPlab5.1\OOPlab5_1Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\LapStore\source\repos\OOPlab5.1\OOPlab5_1Test\obj\Debug\OOPlab5_1Test.csprojAssemblyReference.cache
+C:\Users\LapStore\source\repos\OOPlab5.1\OOPlab5_1Test\obj\Debug\OOPlab5_1Test.csproj.CoreCompileInputs.cache
+C:\Users\LapStore\source\repos\OOPlab5.1\OOPlab5_1Test\obj\Debug\OOPlab5_1Test.csproj.CopyComplete
+C:\Users\LapStore\source\repos\OOPlab5.1\OOPlab5_1Test\obj\Debug\OOPlab5_1Test.dll
+C:\Users\LapStore\source\repos\OOPlab5.1\OOPlab5_1Test\obj\Debug\OOPlab5_1Test.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPlab5.1", "OOPlab5.1\OOPlab5.1.csproj", "{91D06307-9B6A-44A7-AAA2-A3EEF0208B12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPlab5_1Test", "OOPlab5_1Test\OOPlab5_1Test.csproj", "{73BDAF8B-BDD8-44CD-87FF-D210B3E846C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91D06307-9B6A-44A7-AAA2-A3EEF0208B12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91D06307-9B6A-44A7-AAA2-A3EEF0208B12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91D06307-9B6A-44A7-AAA2-A3EEF0208B12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91D06307-9B6A-44A7-AAA2-A3EEF0208B12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73BDAF8B-BDD8-44CD-87FF-D210B3E846C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73BDAF8B-BDD8-44CD-87FF-D210B3E846C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73BDAF8B-BDD8-44CD-87FF-D210B3E846C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73BDAF8B-BDD8-44CD-87FF-D210B3E846C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00BB1A4D-82A1-4FDE-A3CE-BD1E3DEE2513}
+	EndGlobalSection
+EndGlobal

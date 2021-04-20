@@ -1,0 +1,7 @@
+C:\Users\LapStore\source\repos\OOPlab5.1\OOPlab5.1\bin\Debug\OOPlab5.1.exe.config
+C:\Users\LapStore\source\repos\OOPlab5.1\OOPlab5.1\bin\Debug\OOPlab5.1.exe
+C:\Users\LapStore\source\repos\OOPlab5.1\OOPlab5.1\bin\Debug\OOPlab5.1.pdb
+C:\Users\LapStore\source\repos\OOPlab5.1\OOPlab5.1\obj\Debug\OOPlab5.1.csprojAssemblyReference.cache
+C:\Users\LapStore\source\repos\OOPlab5.1\OOPlab5.1\obj\Debug\OOPlab5.1.csproj.CoreCompileInputs.cache
+C:\Users\LapStore\source\repos\OOPlab5.1\OOPlab5.1\obj\Debug\OOPlab5.1.exe
+C:\Users\LapStore\source\repos\OOPlab5.1\OOPlab5.1\obj\Debug\OOPlab5.1.pdb
